@@ -8,7 +8,7 @@ import { Analytics } from '@vercel/analytics/react';
 
 export const metadata = {
   title: "Portfolio Web Developer",
-  description: "Portfolio web developer Rivarola Matias, using Next.js and react",
+  description: "Portfolio web developer Santiago Ceaglio, using Next.js and React",
 };
 
 export default function RootLayout({ children }) {
