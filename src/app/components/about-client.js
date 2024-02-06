@@ -66,12 +66,12 @@ const aboutData = [
     title: "Carrer",
     info: [
       {
-        title: "Industrial Engginer",
-        stage: "2019 - 2022",
+        title: "Industrial Engineer",
+        stage: "2016 - 2019",
       },
       {
         title: "Full Stack Developer whit JavaScript",
-        stage: "2022 - 2023.   Platzi",
+        stage: "2023 - 2024.   Soy Henry, Oracle Next Education",
       },
     ],
   },
